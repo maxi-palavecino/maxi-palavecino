@@ -1,4 +1,38 @@
-## Hi there 👋
+# 👋 ¡Hola! Soy Maximiliano
+
+Soy un entusiasta de la tecnología con más de un año de experiencia en soporte técnico IT y formación práctica en desarrollo web y soluciones en la nube. Me apasiona aprender nuevas herramientas tecnológicas y aplicar mis conocimientos para resolver problemas reales, tanto desde el lado del usuario como desde el lado de la infraestructura.
+
+Actualmente me estoy formando en la área de infraestructura de red en la academia de Cisco.
+
+## 🛠️ Habilidades Técnicas
+
+- **Hardware y Redes**: Computadoras, Impresoras, Routers, Switches  
+- **Sistemas Operativos**: Windows, Linux  
+- **Cloud & DB**: AWS, MySQL  
+- **Herramientas**: TeamViewer, Trello, Jira, Office 365, Google Workspace  
+- **Idiomas**: Español (nativo), Inglés (intermedio), Japonés (básico)
+
+
+## 🤝 Habilidades Blandas
+
+- Comunicación efectiva  
+- Adaptabilidad  
+- Pensamiento analítico  
+- Orientación a resultados  
+- Proactividad  
+
+
+## 📜 Certificaciones
+
+- 🏅 Network Technician Career Path – Cisco  
+- 🗄️ Curso Profesional de Base de Datos – Codigofacilito  
+- ☁️ AWS Certified Cloud Practitioner (CLF-C02)  
+- 🚀 AWS re/Start Graduate  
+
+
+> 💬 Estoy abierto a colaborar en proyectos, especialmente en áreas de desarrollo web, automatización y soluciones cloud.  
+> Si querés contactarme, no dudes en escribirme por [LinkedIn](https://www.linkedin.com/in/maxidev/) o por [email](mailto:maxi.palave@gmail.com).
+
 
 <!--
 **matsidev/matsidev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
