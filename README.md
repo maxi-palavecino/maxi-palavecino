@@ -2,7 +2,7 @@
 
 Soy un entusiasta de la tecnología con más de un año de experiencia en soporte técnico IT y formación práctica en desarrollo web y soluciones en la nube. Me apasiona aprender nuevas herramientas tecnológicas y aplicar mis conocimientos para resolver problemas reales, tanto desde el lado del usuario como desde el lado de la infraestructura.
 
-Actualmente me estoy formando en la área de infraestructura de red en la academia de Cisco.
+Actualmente me estoy formando en la automatización de red en la academia de Cisco.
 
 ## 🛠️ Habilidades Técnicas
 
@@ -10,7 +10,7 @@ Actualmente me estoy formando en la área de infraestructura de red en la academ
 - **Sistemas Operativos**: Windows, Linux  
 - **Cloud & DB**: AWS, MySQL  
 - **Herramientas**: TeamViewer, Trello, Jira, Office 365, Google Workspace  
-- **Idiomas**: Español (nativo), Inglés (intermedio), Japonés (básico)
+- **Idiomas**: Español (nativo), Inglés (intermedio)
 
 
 ## 🤝 Habilidades Blandas
@@ -24,6 +24,7 @@ Actualmente me estoy formando en la área de infraestructura de red en la academ
 
 ## 📜 Certificaciones
 
+- 🛜 Network Support and Security - Cisco
 - 🏅 Network Technician Career Path – Cisco  
 - 🗄️ Curso Profesional de Base de Datos – Codigofacilito  
 - ☁️ AWS Certified Cloud Practitioner (CLF-C02)  
@@ -31,7 +32,7 @@ Actualmente me estoy formando en la área de infraestructura de red en la academ
 
 
 > 💬 Estoy abierto a colaborar en proyectos, especialmente en áreas de desarrollo web, automatización y soluciones cloud.  
-> Si querés contactarme, no dudes en escribirme por [LinkedIn](https://www.linkedin.com/in/maxidev/) o por [email](mailto:maxi.palave@gmail.com).
+> Si querés contactarme, no dudes en escribirme por [LinkedIn](https://www.linkedin.com/in/maxi-palavecino/) o por [email](mailto:maxi.palave@gmail.com).
 
 
 <!--
